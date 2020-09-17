@@ -3,6 +3,15 @@ Teste de Conhecimento - Tech Mahindra
 
 ## EndPoints
 
-### GET /user
+### GET /usuario
+#### Sem parâmetro
 
-### POST /users
+### GET /usuario
+#### Sem parâmetro
+
+#### StatusCode OK 200
+#### StatusCode Erro 401
+### POST /usuarios
+
+### DELETE /usuario
+#### Parametro id
