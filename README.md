@@ -3,7 +3,7 @@ Teste de Conhecimento - Tech Mahindra
 
 ## EndPoints
 
-### GET /usuario
+### GET /usuarios
 #### Sem parâmetro
 
 ### GET /usuario
@@ -12,11 +12,11 @@ Teste de Conhecimento - Tech Mahindra
 #### StatusCode OK 200
 #### StatusCode Erro 401 - Falha na Autenticação
 Exemplo de erro 401
-'''
+```
 {
     "err": "Token inválido!"
 }
-'''
+```
 
 ### POST /usuarios
 #### Sem parâmetro
