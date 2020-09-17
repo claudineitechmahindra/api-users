@@ -8,12 +8,21 @@ Teste de Conhecimento - Tech Mahindra
 
 ### GET /usuario
 #### Parâmetro identificação do usuário
-
+### Respostas
 #### StatusCode OK 200
 #### StatusCode Erro 401 - Falha na Autenticação
+Exemplo de erro 401
+'''
+{
+    "err": "Token inválido!"
+}
+'''
 
 ### POST /usuarios
 #### Sem parâmetro
 
 ### DELETE /usuario
-#### Parametro id
+#### Parâmetro id
+
+### PUT /usuario
+### Parâmetro id
