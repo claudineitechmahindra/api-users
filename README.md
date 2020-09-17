@@ -4,7 +4,6 @@ Teste de Conhecimento - Tech Mahindra
 ## EndPoints
 
 ### GET /usuario
-#### Sem parâmetro### GET /usuario
 #### Sem parâmetro
 
 ### GET /usuario
